@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<br>
+Welcome to my GitHub! I'm Ana, an Electronics Engineer and Software Developer. Through self-study Im currently working on building my knowledge in the field of Data Science!. You can find me on tech twitter <a href = "https://twitter.com/San_Mor_">Ana Morales</a>
