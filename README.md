@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-Welcome to my GitHub! I'm Ana, an Electronics Engineer and Software Developer. Through self-study Im currently working on building my knowledge in the field of Data Science!. You can find me on tech twitter <a href = "https://twitter.com/San_Mor_">Ana Morales</a> where I've recently completed <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>
+Welcome to my GitHub! I'm Ana, an Electronics Engineer and Software Developer. Through self-study, I'm currently working on building my knowledge in the field of Data Science!. You can find me on tech twitter <a href = "https://twitter.com/San_Mor_">Ana Morales</a> where I've recently completed <a href="https://twitter.com/search?q=%23100DaysOfCode&src=hashtag_click">#100DaysOfCode</a>
 
 <hr>
 
@@ -29,7 +29,9 @@ Welcome to my GitHub! I'm Ana, an Electronics Engineer and Software Developer. T
 <br/>
 
 <br/>
+
 <hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Morales&show_icons=true)
 
 <br><br>
